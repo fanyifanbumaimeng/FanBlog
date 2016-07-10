@@ -57,6 +57,7 @@ h2{
     background: url("../img/background.jpg") no-repeat center;
     opacity:0.85;
     min-width:425px;
+    will-change: transform;
 }
 
 #menu {
